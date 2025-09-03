@@ -17,7 +17,7 @@ API responsável por processar emails, extrair texto de arquivos `.pdf`/`.txt`, 
 ## 🛠️ Tecnologias
 - **Python 3.10+**  
 - **FastAPI**  
-- **PyPDF2 (para ler PDFs)  
+- **PyPDF2** (para ler PDFs)  
 - **OpenAI Python SDK**  
 
 ---
